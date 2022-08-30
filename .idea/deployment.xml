@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="codiversity.skriptkeep.com">
+  <component name="PublishConfigData" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="api.skriptkeep.com">
         <serverdata>
@@ -12,7 +13,7 @@
       <paths name="codiversity.skriptkeep.com">
         <serverdata>
           <mappings>
-            <mapping deploy="/codiversity.skriptkeep.com" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/codiversity.skriptkeep.com/wp-content/themes/university-theme" local="$PROJECT_DIR$/wp-content/themes/university-theme" web="/" />
           </mappings>
         </serverdata>
       </paths>
