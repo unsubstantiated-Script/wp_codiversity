@@ -442,13 +442,13 @@ body.login {
   position: relative;
 }
 .btn--orange {
-  background-color: #ee964b;
+  background-color: #ee964b !important;
 }
 .btn--orange:hover {
   background: linear-gradient(#ee964b, #eb6c00);
 }
 .btn--dark-orange {
-  background-color: #f95738;
+  background-color: #f95738 !important;
 }
 .btn--dark-orange:hover {
   background: linear-gradient(#f95738, #c62000);
