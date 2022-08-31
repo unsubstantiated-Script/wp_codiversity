@@ -436,6 +436,7 @@ body.login {
   font-size: 0.88rem;
   padding: 7px 13px;
   font-weight: 300;
+  width: 50px;
 }
 .btn--with-photo {
   padding-left: 40px;
