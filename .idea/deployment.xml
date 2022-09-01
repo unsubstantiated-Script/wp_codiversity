@@ -13,7 +13,7 @@
       <paths name="codiversity.skriptkeep.com">
         <serverdata>
           <mappings>
-            <mapping deploy="/codiversity.skriptkeep.com/wp-content/themes/university-theme" local="$PROJECT_DIR$/wp-content/themes/university-theme" web="/" />
+            <mapping deploy="/codiversity.skriptkeep.com" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
